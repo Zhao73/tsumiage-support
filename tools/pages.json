@@ -1,0 +1,316 @@
+[
+ {
+  "path": "",
+  "lang": "ja",
+  "type": "landing",
+  "group": "home",
+  "title": "ツミアゲ貯金：貯金チャレンジ・目標貯金｜iPhoneアプリ",
+  "og": "assets/og/ja.png",
+  "ogTitle": "ツミアゲ貯金：貯金チャレンジ・目標貯金",
+  "total": null,
+  "alternates": {
+   "ja": "",
+   "en": "en/",
+   "ko": "ko/"
+  }
+ },
+ {
+  "path": "52shuu/",
+  "lang": "ja",
+  "type": "challenge",
+  "group": "c52",
+  "title": "52週貯金のやり方と表（無料PDF）｜ツミアゲ",
+  "og": "assets/og/52shuu.png",
+  "ogTitle": "52週貯金のやり方と表（無料PDF）",
+  "total": "137,800円",
+  "alternates": {
+   "ja": "52shuu/",
+   "en": "en/52-week-money-challenge/",
+   "ko": "ko/52ju-jeogeum/"
+  }
+ },
+ {
+  "path": "365nichi/",
+  "lang": "ja",
+  "type": "challenge",
+  "group": null,
+  "title": "365日貯金のやり方と表（無料PDF）｜ツミアゲ",
+  "og": "assets/og/365nichi.png",
+  "ogTitle": "365日貯金のやり方と表（無料PDF）",
+  "total": "66,795円",
+  "alternates": null
+ },
+ {
+  "path": "100nichi/",
+  "lang": "ja",
+  "type": "challenge",
+  "group": null,
+  "title": "100日貯金のやり方と表（無料PDF）｜ツミアゲ",
+  "og": "assets/og/100nichi.png",
+  "ogTitle": "100日貯金のやり方と表（無料PDF）",
+  "total": "5,050円",
+  "alternates": null
+ },
+ {
+  "path": "500en/",
+  "lang": "ja",
+  "type": "challenge",
+  "group": null,
+  "title": "500円玉貯金はいくら貯まる？表（無料PDF）｜ツミアゲ",
+  "og": "assets/og/500en.png",
+  "ogTitle": "500円玉貯金はいくら貯まる？表（無料PDF）",
+  "total": "100,000円",
+  "alternates": null
+ },
+ {
+  "path": "100futo/",
+  "lang": "ja",
+  "type": "challenge",
+  "group": "c100",
+  "title": "100封筒チャレンジのやり方と表（日本円版）｜ツミアゲ",
+  "og": "assets/og/100futo.png",
+  "ogTitle": "100封筒チャレンジのやり方と表（日本円版）",
+  "total": "505,000円",
+  "alternates": {
+   "ja": "100futo/",
+   "en": "en/100-envelope-challenge/",
+   "ko": "ko/100bongtu/"
+  }
+ },
+ {
+  "path": "tsumori/",
+  "lang": "ja",
+  "type": "challenge",
+  "group": null,
+  "title": "つもり貯金のやり方とリスト例（無料PDF）｜ツミアゲ",
+  "og": "assets/og/tsumori.png",
+  "ogTitle": "つもり貯金のやり方とリスト例（無料PDF）",
+  "total": "78,000円",
+  "alternates": null
+ },
+ {
+  "path": "support.html",
+  "lang": "ja",
+  "type": "doc",
+  "group": "support",
+  "title": "サポート・お問い合わせ｜ツミアゲ",
+  "og": "assets/og/ja.png",
+  "ogTitle": "サポート・お問い合わせ｜ツミアゲ",
+  "total": null,
+  "alternates": {
+   "ja": "support.html",
+   "en": "en/support.html",
+   "ko": "ko/support.html"
+  }
+ },
+ {
+  "path": "privacy.html",
+  "lang": "ja",
+  "type": "doc",
+  "group": "privacy",
+  "title": "プライバシーポリシー｜ツミアゲ",
+  "og": "assets/og/ja.png",
+  "ogTitle": "プライバシーポリシー｜ツミアゲ",
+  "total": null,
+  "alternates": {
+   "ja": "privacy.html",
+   "en": "en/privacy.html",
+   "ko": "ko/privacy.html"
+  }
+ },
+ {
+  "path": "terms.html",
+  "lang": "ja",
+  "type": "doc",
+  "group": "terms",
+  "title": "利用規約｜ツミアゲ",
+  "og": "assets/og/ja.png",
+  "ogTitle": "利用規約｜ツミアゲ",
+  "total": null,
+  "alternates": {
+   "ja": "terms.html",
+   "en": "en/terms.html",
+   "ko": "ko/terms.html"
+  }
+ },
+ {
+  "path": "en/",
+  "lang": "en",
+  "type": "landing",
+  "group": "home",
+  "title": "Tsumiage: 52-Week & 100 Envelope Savings Challenge App",
+  "og": "assets/og/en.png",
+  "ogTitle": "Tsumiage — savings challenges for iPhone",
+  "total": null,
+  "alternates": {
+   "ja": "",
+   "en": "en/",
+   "ko": "ko/"
+  }
+ },
+ {
+  "path": "en/52-week-money-challenge/",
+  "lang": "en",
+  "type": "challenge",
+  "group": "c52",
+  "title": "52-Week Money Challenge Printable Chart (Free PDF) | Tsumiage",
+  "og": "assets/og/en-52-week.png",
+  "ogTitle": "52-Week Money Challenge: printable chart",
+  "total": "$1,378",
+  "alternates": {
+   "ja": "52shuu/",
+   "en": "en/52-week-money-challenge/",
+   "ko": "ko/52ju-jeogeum/"
+  }
+ },
+ {
+  "path": "en/100-envelope-challenge/",
+  "lang": "en",
+  "type": "challenge",
+  "group": "c100",
+  "title": "100 Envelope Challenge Printable Chart (Free PDF) | Tsumiage",
+  "og": "assets/og/en-100-envelope.png",
+  "ogTitle": "100 Envelope Challenge: printable chart",
+  "total": "$5,050",
+  "alternates": {
+   "ja": "100futo/",
+   "en": "en/100-envelope-challenge/",
+   "ko": "ko/100bongtu/"
+  }
+ },
+ {
+  "path": "en/support.html",
+  "lang": "en",
+  "type": "doc",
+  "group": "support",
+  "title": "Support & Contact | Tsumiage",
+  "og": "assets/og/en.png",
+  "ogTitle": "Support & Contact | Tsumiage",
+  "total": null,
+  "alternates": {
+   "ja": "support.html",
+   "en": "en/support.html",
+   "ko": "ko/support.html"
+  }
+ },
+ {
+  "path": "en/privacy.html",
+  "lang": "en",
+  "type": "doc",
+  "group": "privacy",
+  "title": "Privacy Policy | Tsumiage",
+  "og": "assets/og/en.png",
+  "ogTitle": "Privacy Policy | Tsumiage",
+  "total": null,
+  "alternates": {
+   "ja": "privacy.html",
+   "en": "en/privacy.html",
+   "ko": "ko/privacy.html"
+  }
+ },
+ {
+  "path": "en/terms.html",
+  "lang": "en",
+  "type": "doc",
+  "group": "terms",
+  "title": "Terms of Use | Tsumiage",
+  "og": "assets/og/en.png",
+  "ogTitle": "Terms of Use | Tsumiage",
+  "total": null,
+  "alternates": {
+   "ja": "terms.html",
+   "en": "en/terms.html",
+   "ko": "ko/terms.html"
+  }
+ },
+ {
+  "path": "ko/",
+  "lang": "ko",
+  "type": "landing",
+  "group": "home",
+  "title": "Tsumiage: 저축 챌린지·저축 목표 iPhone 앱",
+  "og": "assets/og/ko.png",
+  "ogTitle": "Tsumiage — 저축 챌린지·저축 목표",
+  "total": null,
+  "alternates": {
+   "ja": "",
+   "en": "en/",
+   "ko": "ko/"
+  }
+ },
+ {
+  "path": "ko/52ju-jeogeum/",
+  "lang": "ko",
+  "type": "challenge",
+  "group": "c52",
+  "title": "52주 저금 챌린지 표 (무료 PDF) | Tsumiage",
+  "og": "assets/og/ko-52ju.png",
+  "ogTitle": "52주 저금 챌린지 표 (무료 PDF)",
+  "total": "1,378,000원",
+  "alternates": {
+   "ja": "52shuu/",
+   "en": "en/52-week-money-challenge/",
+   "ko": "ko/52ju-jeogeum/"
+  }
+ },
+ {
+  "path": "ko/100bongtu/",
+  "lang": "ko",
+  "type": "challenge",
+  "group": "c100",
+  "title": "100봉투 챌린지 방법과 표 (무료 PDF) | Tsumiage",
+  "og": "assets/og/ko-100bongtu.png",
+  "ogTitle": "100봉투 챌린지 방법과 표 (무료 PDF)",
+  "total": "5,050,000원",
+  "alternates": {
+   "ja": "100futo/",
+   "en": "en/100-envelope-challenge/",
+   "ko": "ko/100bongtu/"
+  }
+ },
+ {
+  "path": "ko/support.html",
+  "lang": "ko",
+  "type": "doc",
+  "group": "support",
+  "title": "지원·문의 | Tsumiage",
+  "og": "assets/og/ko.png",
+  "ogTitle": "지원·문의 | Tsumiage",
+  "total": null,
+  "alternates": {
+   "ja": "support.html",
+   "en": "en/support.html",
+   "ko": "ko/support.html"
+  }
+ },
+ {
+  "path": "ko/privacy.html",
+  "lang": "ko",
+  "type": "doc",
+  "group": "privacy",
+  "title": "개인정보 처리방침 | Tsumiage",
+  "og": "assets/og/ko.png",
+  "ogTitle": "개인정보 처리방침 | Tsumiage",
+  "total": null,
+  "alternates": {
+   "ja": "privacy.html",
+   "en": "en/privacy.html",
+   "ko": "ko/privacy.html"
+  }
+ },
+ {
+  "path": "ko/terms.html",
+  "lang": "ko",
+  "type": "doc",
+  "group": "terms",
+  "title": "이용약관 | Tsumiage",
+  "og": "assets/og/ko.png",
+  "ogTitle": "이용약관 | Tsumiage",
+  "total": null,
+  "alternates": {
+   "ja": "terms.html",
+   "en": "en/terms.html",
+   "ko": "ko/terms.html"
+  }
+ }
+]

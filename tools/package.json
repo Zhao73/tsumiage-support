@@ -1,0 +1,15 @@
+{
+  "name": "tsumiage-site-tools",
+  "private": true,
+  "type": "module",
+  "description": "Generator and checks for the Tsumiage public site (GitHub Pages).",
+  "scripts": {
+    "math": "node math.mjs",
+    "build": "node build.mjs",
+    "render": "node render.mjs",
+    "verify": "node verify.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.65.1"
+  }
+}

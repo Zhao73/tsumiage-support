@@ -1,0 +1,5 @@
+# Crawlers read robots.txt only at the host root (https://zhao73.github.io/robots.txt).
+# This file lives in a project sub-path, so it is informational. Submit the sitemap directly:
+User-agent: *
+Allow: /
+Sitemap: https://zhao73.github.io/tsumiage-support/sitemap.xml
