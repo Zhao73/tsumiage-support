@@ -174,7 +174,8 @@ p { margin: 0 0 1em; text-wrap: pretty; }
 .stack-caption .num { display: block; font-size: clamp(36px, 4.4vw, 52px); font-weight: 800; letter-spacing: -.03em; line-height: 1.1; }
 .stack-caption small { display: block; color: var(--ink-2); font-size: 13.5px; margin-top: 6px; }
 @media (max-width: 899px) {
-  .stack-figure { width: min(58%, 240px); order: -1; }
+  /* phones: headline and App Store button stay on the first screen; the figure follows them */
+  .stack-figure { width: min(52%, 210px); margin-top: 8px; }
   .stack-caption .num { font-size: 30px; }
   .stack-caption small { font-size: 12.5px; white-space: nowrap; }
   .hero { padding-top: 20px; }
